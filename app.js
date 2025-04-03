@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
   function sortearAmigo() {
     if (Friendlist.length < 2) {
-      alert("Necesitas al least 2 amigos para poder sortear.");
+      alert("Necesitas al menos 2 amigos para poder sortear.");
       return;
     }
 
